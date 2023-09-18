@@ -1,0 +1,163 @@
+ *{
+    text-decoration: none;
+} 
+.navbar{
+    background: #6F6AF7;
+    font-family: calibri,;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navdiv{
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+}
+.logo a{
+    font-size: 28px;
+    font-weight: 600;
+    color: white;
+
+}
+li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+.searchbar{
+    border-radius: 15px;
+}
+.menu_icon{
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 4px 0; 
+  }
+.Home{
+    display: flex;
+  }
+.home_img{
+    width: 155px;
+    height: 175px;
+    border-radius: 8px;
+    margin-left: 45px;
+    margin-top: 40px;
+}
+.Box{
+    background-color:#cbc4da;
+    width: 600px;
+    height: 175px;
+    margin-top: 40px;
+    margin-left: 50px;
+    border-radius: 8px;
+    color: #6F7373;
+}
+.hidden{
+    margin-left:10px;
+    padding: 10px;
+}
+.middle{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    gap: 90px;
+    color: white;
+}
+.box1{
+    background-color: #6F6AF7;
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.box2{ 
+    background-color: #4b24ca;   
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.box3{
+    background-color: #D288FF;
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.box4{
+    background-color: black;
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.footer{
+   display: flex;
+   background-color: blue;
+   width: 800px;
+   height: 250px;
+   border-radius: 10px;
+   padding: 20px;
+   justify-content: space-around;
+}
+.box5{ 
+    background-color: skyblue;
+    width: 142px;
+    height: 51px;
+    border: solid skyblue 2px ;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.box6{ 
+    width: 140px;
+    height: 50px;
+    border: solid white 2px ;
+    color: white;
+    border-radius: 5px;
+    margin-top:30px;;
+    margin-bottom: 30px;
+}
+.box7{
+    width: 140px;
+    height: 50px;
+    border: solid white 2px ;
+    color: white;
+    border-radius: 5px;
+}
+.footer_right_box{
+   background-color:white;
+   width: 630px;
+   height: 255px;
+   border-radius: 10px;
+}
+p{
+   text-align: center;
+}
+.info{
+    padding: 40px;
+}
+h6{
+    background-color: black;
+    color: white;
+    width: 45px;
+    height: 17px;
+    border-radius: 2px;
+    text-align: center;
+    margin-left: 520px;
+    margin-top: 80px;
+}
+.home_icons{
+    margin-top: 8%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-left: 20px;
+}
+.icon{
+    height: 20px;
+    width: 20px;
+}
